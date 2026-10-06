@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+__pycache__/
+spark-warehouse/
+metastore_db/
+derby.log
+*checkpoint*/
+.DS_Store
+Thumbs.db
+desktop.ini
